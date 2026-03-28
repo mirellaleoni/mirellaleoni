@@ -18,8 +18,8 @@ Aqui estão algumas das tecnologias que eu utilizo:
 
 ### 📊 Minhas Estatísticas
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miiswan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miiswan&layout=compact&langs_count=7&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mirellaleoni&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirellaleoni&layout=compact&langs_count=7&theme=dracula" />
 </p>
 
 ---
