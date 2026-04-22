@@ -14,26 +14,6 @@ Aqui estão algumas das tecnologias que eu utilizo:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-### 📊 Minhas Estatísticas
-<p align="left">
-  <img height="180em" src="https://github-readme-stats-six-retrace.vercel.app/api?username=mirellaleoni&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mirellaleoni&theme=dracula" />
-</p>
-
----
-
-### 🐍 Jogo da Cobrinha (Contribuições)
-Abaixo está o gráfico animado que mostra meu histórico de contribuições no GitHub:
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miiswan/miiswan/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miiswan/miiswan/output/github-contribution-grid-snake.svg">
-  <img alt="Github Snake" src="https://raw.githubusercontent.com/miiswan/miiswan/output/github-contribution-grid-snake.svg">
-</picture>
-
----
 
 ### 📫 Como me encontrar
 * [LinkedIn](www.linkedin.com/in/mirella-leoni)
